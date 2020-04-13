@@ -2,6 +2,8 @@ from tkinter import *
 import random
 import time
 
+#12
+
 class Game:
     def __init__(self):
         self.tk = Tk()
